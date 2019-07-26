@@ -1,0 +1,6 @@
+Bat to Exe Conterter has no specific license.
+There's just written "Freeware".
+
+
+The AI file "btec.ai" is has inherit license from AI itself as package.
+

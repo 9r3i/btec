@@ -1,0 +1,31 @@
+{
+  "btec":{
+    "name":"btec",
+    "version":"2.4.8",
+    "type":"lib",
+    "contains":[
+      "btec\/btec.exe",
+      "btec\/btec.ini",
+      "btec\/settings.ini"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  },
+  "ext.btec":{
+    "name":"btec",
+    "version":"1.3.1",
+    "type":"ext",
+    "contains":[
+      "btec.ai"
+    ],
+    "requires":[
+      "btec"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  }
+}
+
+
